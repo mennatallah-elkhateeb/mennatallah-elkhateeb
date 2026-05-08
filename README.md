@@ -22,7 +22,7 @@ I'm a Data Analyst with **1+ year of hands-on experience** delivering **15+ proj
 - 📊 Skilled in **SQL · Power BI · Excel · Tableau · Python**
 - 🤖 Exploring **AI Agents, MCP Servers & Workflow Automation**
 - 📩 Reach me: **mennatallah.elkhateeb@gmail.com**
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mennatallah-el-khateeb) · [**Portfolio**](#)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mennatallah-elkhateeb/) · [**Portfolio**](https://mennatallah-el-khateeb-data-analyst.lovable.app/)
 
 ---
 
@@ -165,31 +165,15 @@ I'm a Data Analyst with **1+ year of hands-on experience** delivering **15+ proj
                         │ Excel · Financial Reporting · Data Reconciliation
 ```
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mennatallah-ELKhateeb&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=5BA99A&icon_color=5BA99A&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mennatallah-ELKhateeb&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=5BA99A&text_color=ffffff)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mennatallah-ELKhateeb&theme=react-dark&hide_border=true&bg_color=0d1117&color=5BA99A&line=5BA99A&point=7AB5A5)](https://github.com/Mennatallah-ELKhateeb)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennatallah-el-khateeb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennatallah-elkhateeb/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennatallah.elkhateeb@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mennatallah-ELKhateeb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5BA99A?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Phone](https://img.shields.io/badge/+20_111_687_0632-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201116870632)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5BA99A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mennatallah-el-khateeb-data-analyst.lovable.app/)
+[![Phone](https://img.shields.io/badge/+20_111_687_0632-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201116870632)
 
 </div>
 
